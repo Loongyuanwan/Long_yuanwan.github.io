@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Hello World
+======
+This is my first blog.
 
 A data-driven personal website
 ======
